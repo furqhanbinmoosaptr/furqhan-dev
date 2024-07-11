@@ -1,0 +1,16 @@
+
+body{
+  background-color: #111111;
+}
+.dev_container{
+  width:100vw;
+  padding-inline:26vw ;
+}
+
+@media only screen and (max-width: 600px) {
+ 
+  .dev_container{
+    width:100vw;
+    padding-inline:5vw ;
+  }
+}
